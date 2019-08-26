@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "IoT Summit 2019"
+title: "OGC IoT and SensorThings Summit 2019"
 email: "devfest@gdg.org.ua"
 description: "This website will be set for the OGC conference"
 baseurl: "/zeppelin"
