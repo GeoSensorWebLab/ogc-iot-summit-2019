@@ -58,7 +58,7 @@ eventDate: "September 11, 2019"
 typeoutTextValues: '"", "IoT", "SensorThings", "AI for IoT"'
 typeoutFallback: "IoT"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/#tickets", text: "Speakers"}
 
 # About Block
