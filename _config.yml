@@ -47,9 +47,9 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
 
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
 
 # Hero Block
 heroImage: "hero.jpg"
