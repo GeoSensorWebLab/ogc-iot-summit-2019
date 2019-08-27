@@ -53,20 +53,20 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+heroTitle: "Open Geospatial Consortium <typeout> 2019"
+eventDate: "September 11, 2019"
+typeoutTextValues: '"", "IoT", "SensorThings", "AI for IoT"'
+typeoutFallback: "IoT"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Schedule"}
  - {permalink: "/#tickets", text: "Speakers"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About OGC IoT and SensorThings Summit 2019"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Keynotes", image: "conference.jpg", text: "World renown speakers from Google, Profound Positioning Inc, and SensorUp." }
+ - {title: "Invited Talks", image: "workshop.jpg", text: "Geospatial and IoT experts from academia and industry." }
+ - {title: "Panel Discussions", image: "hackathon.jpg", text: "Engaging and thought provoking panel discussions on digital transformation with IoT and AI." }
 
 
 # Rockstar Speakers Block
