@@ -53,8 +53,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Open Geospatial Consortium <typeout> 2019"
-eventDate: "September 11, 2019"
+heroTitle: "OGC <typeout> Summit 2019"
+eventDate: "September 11, 2019 - Banff Centre, Banff, Canada"
 typeoutTextValues: '"", "IoT", "SensorThings", "AI for IoT"'
 typeoutFallback: "IoT"
 heroButtons:
