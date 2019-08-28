@@ -11,8 +11,8 @@
   name: "Dr. Reed"
   surname: "Ferber"
   company: ""
-  title: " Director, Running Injury Clinic; Full Professor, Faculty of Kinesiology & Nursing, University of Calgary"
-  bio: ""
+  title: " Director, Running Injury Clinic; Professor, Faculty of Kinesiology & Nursing, University of Calgary"
+  bio: "Dr. Ferber is the Director of the Running Injury Clinic. The goal of the Clinic is to educate and develop injury prevention and rehabilitation programs for runners and walkers of all ages through world-class research and clinical practice. The Clinic serves as a public facility for the clinical assessment of musculoskeletal injuries for walkers and runners as well as a dynamic research laboratory. Research projects include the pathomechanics and optimal treatment of patellofemoral pain syndrome in runners, validation of clinical exams and optimization of treatment for non-specific low back pain, pathomechanics of iliotibial band syndrome, the relationship between foot structure and foot biomechanics, and optimal treatment protocols for knee osteoarthritis using real-time feedback. You can find more information regarding our clinical practice and research at www.runninginjuryclinic.com"
   thumbnailUrl: Reed.jpg
   rockstar: true
 
@@ -40,7 +40,7 @@
   company: ""
   title: "Leader, Data Platform Research Team, National Institute of Advanced Industrial Science and Technology (AIST), Japan"
   bio: ""
-  thumbnailUrl: Kyoung.jpg
+  thumbnailUrl: Kyoung.JPG
   rockstar: true
 -
   id: 8
