@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "OGC IoT and SensorThings Summit 2019"
 email: "info@sensorup.com"
-description: "Spatial is special, especially for IoT"
+description: "Where Location geeks and IoT innovators meet!"
 baseurl: "/zeppelin"
 url: "https://ge.github.io"
 permalink: "/blog/:title"
@@ -84,24 +84,24 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+# - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=sensorup", icon: "twitter"}
+# - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "https://www.sensorup.com", text: "www.SensorUp.com"}
+   - {link: "https://opengeospatial.org", text: "Open Geospatial Consortium"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:info@sensorup.com", text: "info@sensorup.com"}
  -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+ # title: "FAQ"
+  #links:
+   #- {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
