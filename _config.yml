@@ -59,7 +59,7 @@ typeoutTextValues: '"", "IoT", "SensorThings", "AI for IoT"'
 typeoutFallback: "IoT"
 heroButtons:
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/#tickets", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
 
 # About Block
 aboutTitle: "About OGC IoT and SensorThings Summit 2019"
