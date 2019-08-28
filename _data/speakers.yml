@@ -40,7 +40,7 @@
   company: ""
   title: "Leader, Data Platform Research Team, National Institute of Advanced Industrial Science and Technology (AIST), Japan"
   bio: ""
-  thumbnailUrl: Kyoung.jpg
+  thumbnailUrl: Kyoung.png
   rockstar: true
 -
   id: 8
@@ -53,7 +53,7 @@
   rockstar: true
 -
   id: 9
-  name: "Hylke van der"
+  name: "Dr. Hylke van der"
   surname: "Schaaf"
   company: ""
   title: "Fraunhofer IOSB, Germany"
