@@ -53,7 +53,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "OGC IoT and SensorThings Summit 2019" #<typeout>
+heroTitle: "OGC IoT and SensorThings Summit 2019"
 eventDate: "September 11, 2019 - Banff Centre, Banff, Canada"
 typeoutTextValues: '"", "IoT", "SensorThings", "AI for IoT"'
 typeoutFallback: "IoT"
