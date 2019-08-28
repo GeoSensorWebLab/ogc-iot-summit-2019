@@ -53,7 +53,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "OGC <typeout> Summit 2019"
+heroTitle: "OGC IoT and SensorThings Summit 2019" #<typeout>
 eventDate: "September 11, 2019 - Banff Centre, Banff, Canada"
 typeoutTextValues: '"", "IoT", "SensorThings", "AI for IoT"'
 typeoutFallback: "IoT"
@@ -90,7 +90,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://www.sensorup.com", text: "www.SensorUp.com"}
+   - {link: "https://www.sensorup.com", text: "SensorUp Inc."}
    - {link: "https://opengeospatial.org", text: "Open Geospatial Consortium"}
  -
   title: "Contacts"
