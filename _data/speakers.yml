@@ -8,12 +8,12 @@
   rockstar: true
 
 - id: 4
-  name: "Dr. Naser"
-  surname: "El-Sheimy"
+  name: "Dr. Reed"
+  surname: "Ferber"
   company: ""
-  title: "CEO, Profound Positioning Inc and Professor, University of Calgary, Canada"
+  title: " Director, Running Injury Clinic; Assistant Professor, Faculty of Kinesiology & Nursing, University of Calgary"
   bio: ""
-  thumbnailUrl: Naser.jpg
+  thumbnailUrl: Reed.jpg
   rockstar: true
 
 - id: 5
