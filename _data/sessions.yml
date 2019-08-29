@@ -32,3 +32,5 @@
   description: "This panel will be moderated by Dr. Steve Liang. The discussion will be a thought-provoking and interactive discussion regarding how can we disrupt existing proccesses and organizations with interoperable AI and IoT technologies. What's the value AI+IoT will bring? How to adopt and adapt? "
   subtype: panel
   complexity: "Intermediate"
+  speakers: [5]
+
