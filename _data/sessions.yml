@@ -8,27 +8,27 @@
 -
   id: 002
   title: "Keynote Presentations"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  description: "Three inspiring keynote talks from three world-renown speakers."
   subtype: keynote
   speakers: [3,4,5]
   complexity: "Intermediate"
 -
   id: 003
   title: "SensorThing Successes Around the World"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  description: "OGC SensorThings API has been adopted around the world and becoming a go-to standard to build large-scale and interoperable IoT system of systems. This session will showcase the successful use cases around the world."
   subtype: presentation
   speakers: [8,9,11,12]
   complexity: "Intermediate"
 -
   id: 004
   title: "IoT and Digital Transformation"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: "IoT is a critical enabling technology for digital transformation. Digital transformation is the process of using IoT and AI to create new — or modify existing — business processes, culture, and customer experiences to meet changing business and market requirements. This session will present different use cases of using AI and IoT to transform organizations."
   subtype: presentation
   speakers: [6,7,10]
   complexity: "Intermediate"
 -
   id: 005
-  title: "Panel Discussion-IoT, AI, and Digital Transformation- Now and Future"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  title: "Panel Discussion-IoT, AI, and Digital Transformation - Now and Future"
+  description: "This panel will be moderated by Dr. Steve Liang. The discussion will be a thought-provoking and interactive discussion regarding how can we disrupt existing proccesses and organizations with interoperable AI and IoT technologies. What's the value AI+IoT will bring? How to adopt and adapt? "
   subtype: panel
   complexity: "Intermediate"
