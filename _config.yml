@@ -62,10 +62,10 @@ heroButtons:
  - {permalink: "/speakers/", text: "Speakers"}
 
 # About Block
-aboutTitle: "About OGC IoT and SensorThings Summit 2019"
+aboutTitle: "About OGC IoT Summit 2019"
 aboutBlock:
- - {title: "Keynotes", image: "keynote.jpg", text: "World renown speakers from Google, Profound Positioning Inc, and SensorUp." }
- - {title: "Invited Talks", image: "invitedTalk.jpg", text: "Geospatial and IoT experts from academia and industry." }
+ - {title: "Keynotes", image: "keynote.jpg", text: "World renown speakers from Google, Running Injury Clinic, and SensorUp." }
+ - {title: "Invited Talks", image: "invitedTalk.jpg", text: "Geospatial and IoT experts from world-leading research institutes and companies." }
  - {title: "Panel Discussions", image: "panel_discussion.jpg", text: "Engaging and thought provoking panel discussions on digital transformation with IoT and AI." }
 
 
