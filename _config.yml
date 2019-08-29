@@ -58,8 +58,7 @@ eventDate: "September 11, 2019 - Banff Centre, Banff, Canada"
 typeoutTextValues: '""'
 typeoutFallback: "IoT"
 heroButtons:
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+ - {link: "http://ogcmeet.org/#register", text: "Register"}
 
 # About Block
 aboutTitle: "About OGC IoT Summit 2019"
