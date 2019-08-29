@@ -47,9 +47,9 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
 
 bottomNavigationLinks:
- - {permalink: "/schedule/", text: "Schedule"}
+ - {link: "http://ogcmeet.org/#register", text: "Register"}
 rightNavigationButtons:
- - {permalink: "/schedule/", text: "Schedule"}
+ - {link: "http://ogcmeet.org/#register", text: "Register"}
 
 # Hero Block
 heroImage: "hero.jpg"
