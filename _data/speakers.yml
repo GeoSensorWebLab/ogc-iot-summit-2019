@@ -1,8 +1,8 @@
 - id: 3
   name: "Ed"
   surname: "Parsons"
-  company: ""
-  title: "Geospatial Technologist, Google, UK"
+  company: "Google, UK"
+  title: "Geospatial Technologist"
   bio: "Ed Parsons is the Geospatial Technologist of Google, with responsibility for evangelising Google’s mission to organise the world’s information using geography, and tools including Google Earth and Google Maps. In this role he also maintains links with Universities, Research and Standards Organisations which are involved in the development of Geospatial Technology. Ed is based in Google’s London office, and anywhere else he can plug in his laptop."
   thumbnailUrl: Ed.jpg
   rockstar: true
@@ -10,8 +10,8 @@
 - id: 4
   name: "Dr. Reed"
   surname: "Ferber"
-  company: ""
-  title: " Director, Running Injury Clinic; Professor, Faculty of Kinesiology & Nursing, University of Calgary"
+  company: "Running Injury Clinic/University of Calgary"
+  title: " Director/Professor"
   bio: "Dr. Ferber is the Director of the Running Injury Clinic. The goal of the Clinic is to educate and develop injury prevention and rehabilitation programs for runners and walkers of all ages through world-class research and clinical practice. The Clinic serves as a public facility for the clinical assessment of musculoskeletal injuries for walkers and runners as well as a dynamic research laboratory. Research projects include the pathomechanics and optimal treatment of patellofemoral pain syndrome in runners, validation of clinical exams and optimization of treatment for non-specific low back pain, pathomechanics of iliotibial band syndrome, the relationship between foot structure and foot biomechanics, and optimal treatment protocols for knee osteoarthritis using real-time feedback. You can find more information regarding our clinical practice and research at www.runninginjuryclinic.com"
   thumbnailUrl: Reed.jpg
   rockstar: true
@@ -19,8 +19,8 @@
 - id: 5
   name: "Dr. Steve"
   surname: "Liang"
-  company: ""
-  title: "CTO, SensorUp Inc. and Associate Professor, University of Calgary, Canada"
+  company: "SensorUp/University of Calgary"
+  title: "Founder and CTO/Associate Professor"
   bio: 'Dr. Steve Liang is a global influencer and change maker of Internet of Things. Steve is the founder and CTO of SensorUp, and an associate professor who holds an IoT research chair at the University of Calgary. Dr. Liang is chairing and the editor of several key IoT enabling standards in Open Geospatial Consortium and UN''s ITU-T. Dr. Steve Liang''s leading edge research and product development efforts are designed to unlock the full potential of the IoT by transforming heterogeneous "silo-ed" IoT systems into a homogeneous IoT system of systems. For example, Steve is the editor of the OGC SensorThings API, an IoT cloud API standard that has been widely implemented around the world for applications ranging from homeland security, logistics, smart cities to energy. Steve is recognized as a thought leader, especially in IoT and geospatial technologies. Dr. Liang has published more than 60 research publications, and delivered more than 100 invited talks in more than ten countries around the world. Dr. Liang also received numerous pretisgeous awards, include Killam Emerging Research Leader Award and Calgary''s Top 40 under 40.'
   thumbnailUrl: Steve.jpg
   rockstar: true
@@ -28,8 +28,8 @@
 - id: 6
   name: "Corrie"
   surname: "Banks"
-  company: ""
-  title: "Director of Logistics, Cando Rail Services, Canada"
+  company: "Cando Rail Services, Canada"
+  title: "Director of Logistics"
   bio: ""
   thumbnailUrl: Corrie.jpg
   rockstar: true
@@ -37,32 +37,32 @@
 - id: 7
   name: "Dr. Kyoung-Sook"
   surname: "Kim"
-  company: ""
-  title: "Leader, Data Platform Research Team, National Institute of Advanced Industrial Science and Technology (AIST), Japan"
+  company: "National Institute of Advanced Industrial Science and Technology (AIST), Japan"
+  title: "Leader, Data Platform Research Team"
   bio: ""
   thumbnailUrl: Kyoung.JPG
   rockstar: true
 - id: 8
   name: "Dr. Jimmy"
   surname: "Chou"
-  company: ""
-  title: "Director, GIS.FCU, Taiwan"
+  company: "GIS.FCU, Taiwan"
+  title: "Director and Professor"
   bio: ""
   thumbnailUrl: Jimmy.jpg
   rockstar: true
 - id: 9
   name: "Dr. Hylke van der"
   surname: "Schaaf"
-  company: ""
-  title: "Fraunhofer IOSB, Germany"
+  company: "Fraunhofer IOSB, Germany"
+  title: ""
   bio: ""
   thumbnailUrl: Hylke.jpg
   rockstar: true
 - id: 10
   name: "Marcus"
   surname: "Alzona"
-  company: ""
-  title: "Chief Technologist, Keys net LLC, USA"
+  company: "Keys net LLC, USA"
+  title: "Chief Technologist"
   bio: ""
   thumbnailUrl: Marcus.jpg
   rockstar: true
@@ -70,8 +70,8 @@
 - id: 11
   name: "Dr. Alec"
   surname: "Huang"
-  company: ""
-  title: "Associate Professor, NCU, Taiwan"
+  company: "NCU, Taiwan"
+  title: "Associate Professor"
   bio: ""
   thumbnailUrl: Alec.jpg
   rockstar: true
@@ -79,8 +79,8 @@
 - id: 12
   name: "Dr. Sara"
   surname: "Saeedi"
-  company: ""
-  title: " Assistant Director, GeoSensor Web Lab, University of Calgary, Canada"
+  company: "GeoSensor Web Lab, University of Calgary, Canada"
+  title: " Assistant Director"
   bio: ""
   thumbnailUrl: Sara.jpg
   rockstar: true
