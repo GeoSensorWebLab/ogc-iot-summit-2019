@@ -14,7 +14,7 @@
   complexity: "Intermediate"
 -
   id: 003
-  title: "SensorThing Successes Around the World"
+  title: "SensorThings API Successes Around the World"
   description: "OGC SensorThings API has been adopted around the world and becoming a go-to standard to build large-scale and interoperable IoT system of systems. This session will showcase the successful use cases around the world."
   subtype: presentation
   speakers: [8,9,11,12]
