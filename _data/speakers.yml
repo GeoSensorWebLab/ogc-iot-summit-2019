@@ -84,3 +84,12 @@
   bio: ""
   thumbnailUrl: Sara.jpg
   rockstar: true
+
+- id: 13
+  name: "Roman"
+  surname: "Nemish"
+  company: "TEKTELIC, Canada"
+  title: "CEO"
+  bio: ""
+  thumbnailUrl: Sara.jpg
+  rockstar: true
