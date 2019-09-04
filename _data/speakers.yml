@@ -84,7 +84,7 @@
   bio: ""
   thumbnailUrl: Sara.jpg
   rockstar: true
-
+  
 - id: 13
   name: "Roman"
   surname: "Nemish"
@@ -94,7 +94,7 @@
   thumbnailUrl: Roman.jpg
   rockstar: true
   
-  - id: 14
+- id: 14
   name: "Jim"
   surname: "Joseph"
   company: "Expeto Wireless"
