@@ -21,18 +21,26 @@
   complexity: "Intermediate"
 -
   id: 004
-  title: "IoT, AI and Digital Transformation"
+  title: "IoT, Connectivity and Digital Transformation"
   description: "IoT is a critical enabling technology for digital transformation. Digital transformation is the process of using IoT and AI to create new — or modify existing — business processes, culture, and customer experiences to meet changing business and market requirements. This session will present different use cases of using AI and IoT to transform organizations."
   subtype: presentation
-  speakers: [6,7,10,13]
+  speakers: [6,7,10,13,14]
   complexity: "Intermediate"
 -
   id: 005
-  title: "Panel Discussion-IoT, AI, and Digital Transformation - Now and Future"
+  title: "IoT, AI, and Digital Transformation - Now and Future"
   description: "This panel will be moderated by Dr. Steve Liang. The discussion will be a thought-provoking and interactive discussion regarding how can we disrupt existing proccesses and organizations with interoperable AI and IoT technologies. What's the value AI+IoT will bring? How to adopt and adapt? "
   subtype: panel
   complexity: "Intermediate"
   speakers: [5]
+-
+  id: 006
+  title: "IoT, GeoAI, and Security"
+  description: "GeoAI is when AI and the geospatial dimension are combined together. How to create GeoAI? What can be done with GeoAI? What are the security and privacy implications for GeoAI+IoT?"
+  subtype: presentation
+  complexity: "Intermediate"
+  speakers: [7,10]
+
 -
   id: 007
   title: "Networking and Dinner Reception"
