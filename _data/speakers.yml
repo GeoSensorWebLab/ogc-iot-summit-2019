@@ -93,3 +93,12 @@
   bio: ""
   thumbnailUrl: Roman.jpg
   rockstar: true
+  
+  - id: 14
+  name: "Jim"
+  surname: "Joseph"
+  company: "Expeto Wireless"
+  title: "Solution Specialist"
+  bio: ""
+  thumbnailUrl: Jim.jpg
+  rockstar: true
