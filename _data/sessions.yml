@@ -24,7 +24,7 @@
   title: "IoT, Connectivity and Digital Transformation"
   description: "IoT is a critical enabling technology for digital transformation. Digital transformation is the process of using IoT and AI to create new — or modify existing — business processes, culture, and customer experiences to meet changing business and market requirements. This session will present different use cases of using AI and IoT to transform organizations."
   subtype: presentation
-  speakers: [6,7,10,13,14]
+  speakers: [6,13,14]
   complexity: "Intermediate"
 -
   id: 005
