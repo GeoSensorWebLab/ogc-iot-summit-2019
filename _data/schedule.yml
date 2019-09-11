@@ -7,6 +7,12 @@
   timeslots:
     - {
     	startTime: "10:15",
+    	endTime: "10:45",
+    	sessionIds: [008]
+    }
+
+- {
+    	startTime: "10:45",
     	endTime: "12:00",
     	sessionIds: [002]
     }
