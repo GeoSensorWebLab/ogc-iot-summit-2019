@@ -20,18 +20,22 @@
     	sessionIds: [010]
     }
     - {
-    	startTime: "16:30",
-    	endTime: "17:30",
-    	sessionIds: [006]
+    	startTime: "13:00",
+    	endTime: "13:20",
+    	sessionIds: [011]
     }
     - {
-    	startTime: "17:30",
-    	endTime: "18:00",
-    	sessionIds: [005]
+    	startTime: "13:20",
+    	endTime: "13:40",
+    	sessionIds: [012]
     }
     - {
-    	startTime: "18:00",
-    	endTime: "21:00",
-    	sessionIds: [007]
+    	startTime: "13:40",
+    	endTime: "14:00",
+    	sessionIds: [013]
+    - {
+    	startTime: "14:00",
+    	endTime: "14:30",
+    	sessionIds: [014]
     }
    
