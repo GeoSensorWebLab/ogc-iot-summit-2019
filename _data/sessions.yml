@@ -46,11 +46,3 @@
   description: "Please join the OGC Banff TC Dinner Reception, and network with the 200+ geospatial experts from all around the world."
   subtype: dinner
   complexity: "Intermediate"
--
-  id: 008
-  title: "Keynote: The Consumer IoT - Musings beyond the hype?"
-  description: "Ed Parsons, Google's Geographer, presented IoT from a consumer market perspective."
-  subtype: keynote
-  speakers: [3]
-  complexity: "Intermediate"
-  presentation: "https://docs.google.com/presentation/d/1j2iVcA9vW1KrqP8imm7L0mILMjwQzmGAG7EvREO1dqk/edit#slide=id.g1b8bb1df05_0_81"
