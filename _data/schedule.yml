@@ -5,14 +5,9 @@
     - {title: "Program", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "10:15",
-    	endTime: "10:45",
-    	sessionIds: [005]
-    }
-    - {
     	startTime: "10:45",
     	endTime: "12:00",
-    	sessionIds: [005]
+    	sessionIds: [002]
     }
     - {
       startTime: "13:00",
@@ -38,4 +33,9 @@
       startTime: "18:00",
       endTime: "21:00",
       sessionIds: [007]
+    }
+    - {
+      startTime: "22:00",
+      endTime: "23:00",
+      sessionIds: [005]
     }
