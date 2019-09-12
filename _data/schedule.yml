@@ -19,4 +19,19 @@
     	endTime: "16:15",
     	sessionIds: [004]
     }
+    - {
+    	startTime: "16:30",
+    	endTime: "17:30",
+    	sessionIds: [006]
+    }
+    - {
+    	startTime: "17:30",
+    	endTime: "18:00",
+    	sessionIds: [005]
+    }
+    - {
+    	startTime: "18:00",
+    	endTime: "21:00",
+    	sessionIds: [007]
+    }
    
