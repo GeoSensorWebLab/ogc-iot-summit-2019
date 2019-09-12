@@ -3,23 +3,21 @@
   dateReadable: "September 11"
   tracks:
     - {title: "Program", color: "#90be4e"}
-
   timeslots:
     - {
     	startTime: "10:15",
     	endTime: "10:45",
     	sessionIds: [008]
     }
-
-- {
+    - {
     	startTime: "10:45",
     	endTime: "12:00",
     	sessionIds: [002]
     }
     - {
-        startTime: "13:00",
-        endTime: "14:30",
-        sessionIds: [003]
+      startTime: "13:00",
+      endTime: "14:30",
+      sessionIds: [003]
     }
     - {
     	startTime: "14:45",
@@ -30,8 +28,8 @@
       startTime: "16:30",
       endTime: "17:30",
       sessionIds: [006]
-    }
-    - {
+     }
+   - {
       startTime: "17:30",
       endTime: "18:00",
       sessionIds: [005]
