@@ -131,7 +131,7 @@
   title: "Keynote: The Consumer IoT - Musings beyond the hype?"
   description: "Ed Parsons, Google's Geographer, presented IoT from a consumer market perspective."
   subtype: keynote
-  speakers: [3]
+  speakers: [7]
   complexity: "Intermediate"
   presentation: "https://docs.google.com/presentation/d/1j2iVcA9vW1KrqP8imm7L0mILMjwQzmGAG7EvREO1dqk/edit#slide=id.g1b8bb1df05_0_81"
 -
@@ -139,7 +139,7 @@
   title: "Keynote: The Consumer IoT - Musings beyond the hype?"
   description: "Ed Parsons, Google's Geographer, presented IoT from a consumer market perspective."
   subtype: keynote
-  speakers: [3]
+  speakers: [10]
   complexity: "Intermediate"
   presentation: "https://docs.google.com/presentation/d/1j2iVcA9vW1KrqP8imm7L0mILMjwQzmGAG7EvREO1dqk/edit#slide=id.g1b8bb1df05_0_81"
 -
@@ -147,7 +147,7 @@
   title: "Keynote: The Consumer IoT - Musings beyond the hype?"
   description: "Ed Parsons, Google's Geographer, presented IoT from a consumer market perspective."
   subtype: keynote
-  speakers: [3]
+  speakers: [5]
   complexity: "Intermediate"
   presentation: "https://docs.google.com/presentation/d/1j2iVcA9vW1KrqP8imm7L0mILMjwQzmGAG7EvREO1dqk/edit#slide=id.g1b8bb1df05_0_81"
 -
@@ -155,23 +155,6 @@
   title: "Keynote: The Consumer IoT - Musings beyond the hype?"
   description: "Ed Parsons, Google's Geographer, presented IoT from a consumer market perspective."
   subtype: keynote
-  speakers: [3]
+  speakers: [7]
   complexity: "Intermediate"
   presentation: "https://docs.google.com/presentation/d/1j2iVcA9vW1KrqP8imm7L0mILMjwQzmGAG7EvREO1dqk/edit#slide=id.g1b8bb1df05_0_81"
--
-  id: 022
-  title: "Keynote: The Consumer IoT - Musings beyond the hype?"
-  description: "Ed Parsons, Google's Geographer, presented IoT from a consumer market perspective."
-  subtype: keynote
-  speakers: [3]
-  complexity: "Intermediate"
-  presentation: "https://docs.google.com/presentation/d/1j2iVcA9vW1KrqP8imm7L0mILMjwQzmGAG7EvREO1dqk/edit#slide=id.g1b8bb1df05_0_81"
--
-  id: 023
-  title: "Keynote: The Consumer IoT - Musings beyond the hype?"
-  description: "Ed Parsons, Google's Geographer, presented IoT from a consumer market perspective."
-  subtype: keynote
-  speakers: [3]
-  complexity: "Intermediate"
-  presentation: "https://docs.google.com/presentation/d/1j2iVcA9vW1KrqP8imm7L0mILMjwQzmGAG7EvREO1dqk/edit#slide=id.g1b8bb1df05_0_81"
-
