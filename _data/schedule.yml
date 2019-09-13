@@ -74,9 +74,4 @@
     	endTime: "21:00",
     	sessionIds: [021]
     }
-    - {
-    	startTime: "21:00",
-    	endTime: "21:30",
-    	sessionIds: [022]
-    }
    
