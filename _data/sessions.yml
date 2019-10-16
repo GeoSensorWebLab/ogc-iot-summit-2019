@@ -96,12 +96,12 @@
   presentation: "https://drive.google.com/file/d/1USAj9l9zTeRGd1ZrN_xMiXQGJytStKUv/view?usp=sharing"
 -
   id: 014
-  title: "Keynote: The Consumer IoT - Musings beyond the hype?"
-  description: "Ed Parsons, Google's Geographer, presented IoT from a consumer market perspective."
+  title: "Keynote: GeoWebSensor Lab: Transform Disparate IoT Systems into Actionable Insights"
+  description: "Sara Saeedi, GeoSensor Web Lab, University of Calgary, Canada, presented transform disparate IoT systems into actionable insights"
   subtype: keynote
   speakers: [12]
   complexity: "Intermediate"
-  presentation: "https://docs.google.com/presentation/d/1j2iVcA9vW1KrqP8imm7L0mILMjwQzmGAG7EvREO1dqk/edit#slide=id.g1b8bb1df05_0_81"
+  presentation: "https://drive.google.com/file/d/1q3ROA6Edl4eGoQjO8sL1CNtXd-VUiPl1/view?usp=sharing"
 -
   id: 015
   title: "Keynote: Rail Supply Chain Optimization Platform"
