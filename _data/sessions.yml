@@ -72,12 +72,12 @@
   presentation: "https://docs.google.com/presentation/d/1j2iVcA9vW1KrqP8imm7L0mILMjwQzmGAG7EvREO1dqk/edit#slide=id.g1b8bb1df05_0_81"
 -
   id: 011
-  title: "Keynote: The Consumer IoT - Musings beyond the hype?"
-  description: "Ed Parsons, Google's Geographer, presented IoT from a consumer market perspective."
+  title: "Keynote: IoT platform for disaster resilience in Taiwan"
+  description: "Jimmy Chou, GIS.FCU, Taiwan, presented IoT platform for disaster resilience in Taiwan"
   subtype: keynote
   speakers: [8]
   complexity: "Intermediate"
-  presentation: "https://docs.google.com/presentation/d/1j2iVcA9vW1KrqP8imm7L0mILMjwQzmGAG7EvREO1dqk/edit#slide=id.g1b8bb1df05_0_81"
+  presentation: "https://drive.google.com/file/d/1hdKkooi5mR4eg_he3e5CmGGwSLLEQGmH/view?usp=sharing"
 -
   id: 012
   title: "Keynote: OGC SensorThings API Across the Pond"
